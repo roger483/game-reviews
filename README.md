@@ -1,0 +1,1 @@
+Hello! Welcome to my game reviews webdev project where I will demonstrate the skills I have learned in Odin Project. I will try to use my writing skills, HTML, CSS, and Javascript to make a fun website where I write about video games that I have recently played.
